@@ -1,0 +1,20 @@
+{
+  "dbcode.connections": [
+    {
+      "connectionId": "advanced-databases-project",
+      "name": "Advanced Databases Project (Docker)",
+      "driver": "mysql",
+      "connectionType": "host",
+      "host": "127.0.0.1",
+      "port": 3307,
+      "username": "root",
+      "password": "root",
+      "savePassword": "yes",
+      "database": null,
+      "ssl": false
+    }
+  ],
+  "files.associations": {
+    "*.sql": "sql"
+  }
+}

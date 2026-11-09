@@ -1,0 +1,6 @@
+-- Add your database schema definitions (CREATE TABLE statements) here
+-- Add any necessary indexes, constraints, or relationships between tables
+-- Add your roles, an example user for each role, and their permissions
+--
+-- You are NOT required to add the schema for the tables provided to you in the
+-- starting database.

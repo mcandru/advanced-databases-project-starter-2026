@@ -1,0 +1,9 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+
+# Database exports you download from phpMyAdmin
+exports/
+
+# Local port overrides
+.env
